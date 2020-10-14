@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43887'
     url: http://www.gutenberg.org/2009/agents/43887
     wikipedia: https://fi.wikipedia.org/wiki/Aino_Tuomikoski
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reid, Mayne
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63381#Saarroksissa-Himalajalla-Saksalaisten-veljesten-seikkailuja
 gutenberg_issued: '2020-10-05'
 gutenberg_type: Text
 identifiers:

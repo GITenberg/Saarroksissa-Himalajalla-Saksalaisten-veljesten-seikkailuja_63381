@@ -1,0 +1,43 @@
+_repo: Saarroksissa-Himalajalla-Saksalaisten-veljesten-seikkailuja_63381
+_version: 0.0.1
+alternative_title: The cliff climbers. Finnish
+contributor:
+  translator:
+    agent_name: Tuomikoski, Aino
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '43887'
+    url: http://www.gutenberg.org/2009/agents/43887
+    wikipedia: https://fi.wikipedia.org/wiki/Aino_Tuomikoski
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63381'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Survival skills -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'East Indians -- Juvenile fiction'
+- !lcsh 'Botanists -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Himalaya Mountains -- Juvenile fiction'
+- GITenberg
+title: 'Saarroksissa Himalajalla: Saksalaisten veljesten seikkailuja'
+url: http://www.gutenberg.org/ebooks/63381
